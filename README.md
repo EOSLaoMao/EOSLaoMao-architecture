@@ -1,4 +1,4 @@
 # EOSLaoMao Architecture
 ### eoslaomao cluster architecture
-* <img src="./Infrastructure.svg">
+<img src="./Infrastructure.svg">
 
