@@ -1,4 +1,4 @@
 # EOSLaoMao Architecture
 
-<img src="./Infrastructure.svg">
+<img src="https://github.com/EOSLaoMao/EOSLaoMao-architecture/blob/master/Infrastructure.svg">
 
