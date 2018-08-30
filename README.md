@@ -1,2 +1,4 @@
-# eos-architecture
-eoslaomao super node architecture
+# EOSLaoMao Architecture
+### eoslaomao cluster architecture
+* <img src="./Infrastructure.svg">
+
